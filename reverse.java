@@ -11,6 +11,6 @@ public class reverse {
         ch= sentence.charAt(i);
         reverseString=ch+reverseString;
        }
-System.out.println(reverseString);
+        System.out.println(reverseString);
     }
 }
